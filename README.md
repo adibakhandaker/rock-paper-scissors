@@ -36,7 +36,7 @@ rock-paper-scissors/
 ## Demo
 
 You can try out the live demo here:  
-([https://your-username.github.io/rock-paper-scissors/](https://adibakhandaker.github.io/rock-paper-scissors/))
+(https://adibakhandaker.github.io/rock-paper-scissors/)
 
 ## How to Contribute
 
@@ -52,8 +52,7 @@ Just fork the repo, create a branch, and open a pull request.
 ---
 
 
-## Contact
-
-Created by Adiba Khandaker
-Feel free to reach out!
+## About the Author
+**Adiba Khandaker**
+Feel free to reach out for feedback or collaboration!
 
