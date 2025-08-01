@@ -54,5 +54,6 @@ Just fork the repo, create a branch, and open a pull request.
 
 ## About the Author
 **Adiba Khandaker**
+
 Feel free to reach out for feedback or collaboration!
 
